@@ -1,0 +1,415 @@
+{
+	"frames": {
+		"bo_dragon.png": {
+			"frame": {
+				"x": 2,
+				"y": 2,
+				"w": 128,
+				"h": 192
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 192
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 192
+			}
+		},
+		"bo_horse.png": {
+			"frame": {
+				"x": 134,
+				"y": 2,
+				"w": 128,
+				"h": 184
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 184
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 184
+			}
+		},
+		"bo_skulkrin.png": {
+			"frame": {
+				"x": 266,
+				"y": 2,
+				"w": 128,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 104
+			}
+		},
+		"bo_troll.png": {
+			"frame": {
+				"x": 398,
+				"y": 2,
+				"w": 128,
+				"h": 226
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 226
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 226
+			}
+		},
+		"bo_wolf.png": {
+			"frame": {
+				"x": 530,
+				"y": 2,
+				"w": 128,
+				"h": 88
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 88
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 88
+			}
+		},
+		"c_doomguard.png": {
+			"frame": {
+				"x": 530,
+				"y": 94,
+				"w": 128,
+				"h": 168
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 168
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 168
+			}
+		},
+		"c_doomguardh.png": {
+			"frame": {
+				"x": 2,
+				"y": 266,
+				"w": 128,
+				"h": 224
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 224
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 224
+			}
+		},
+		"c_dragon.png": {
+			"frame": {
+				"x": 134,
+				"y": 266,
+				"w": 128,
+				"h": 192
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 192
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 192
+			}
+		},
+		"c_fey.png": {
+			"frame": {
+				"x": 266,
+				"y": 266,
+				"w": 128,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 170
+			}
+		},
+		"c_feyh.png": {
+			"frame": {
+				"x": 398,
+				"y": 266,
+				"w": 128,
+				"h": 229
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 229
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 229
+			}
+		},
+		"c_free.png": {
+			"frame": {
+				"x": 530,
+				"y": 266,
+				"w": 128,
+				"h": 168
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 168
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 168
+			}
+		},
+		"c_freeh.png": {
+			"frame": {
+				"x": 530,
+				"y": 438,
+				"w": 128,
+				"h": 229
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 229
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 229
+			}
+		},
+		"c_midwinterh.png": {
+			"frame": {
+				"x": 662,
+				"y": 2,
+				"w": 128,
+				"h": 230
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 230
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 230
+			}
+		},
+		"c_morkin.png": {
+			"frame": {
+				"x": 662,
+				"y": 236,
+				"w": 128,
+				"h": 192
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 192
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 192
+			}
+		},
+		"c_morkinh.png": {
+			"frame": {
+				"x": 662,
+				"y": 432,
+				"w": 128,
+				"h": 209
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 209
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 209
+			}
+		},
+		"c_skulkrin.png": {
+			"frame": {
+				"x": 2,
+				"y": 645,
+				"w": 128,
+				"h": 108
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 108
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 108
+			}
+		},
+		"c_targ.png": {
+			"frame": {
+				"x": 134,
+				"y": 645,
+				"w": 128,
+				"h": 173
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 173
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 173
+			}
+		},
+		"c_targh.png": {
+			"frame": {
+				"x": 266,
+				"y": 645,
+				"w": 128,
+				"h": 236
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 236
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 236
+			}
+		},
+		"c_wise.png": {
+			"frame": {
+				"x": 398,
+				"y": 645,
+				"w": 128,
+				"h": 168
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 168
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 168
+			}
+		},
+		"c_wiseh.png": {
+			"frame": {
+				"x": 662,
+				"y": 645,
+				"w": 128,
+				"h": 230
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 230
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 230
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 792,
+			"h": 883
+		},
+		"scale": "1"
+	}
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>three.js motions</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <style>
+      * {
+        margin: 0;
+        overflow: hidden;
+      }
+    </style>
+    <script defer src="../node_modules/es-module-shims/dist/es-module-shims.js"></script>
+  </head>
+  <body>
+    <script type="importmap-shim">
+      {
+        "imports": {
+          "three": "../node_modules/three/build/three.module.js",
+          "three/examples/": "../node_modules/three/examples/",
+          "webxr-polyfill": "../node_modules/webxr-polyfill/build/webxr-polyfill.module.js"
+        }
+      }
+    </script>
+    <script type="module-shim" src="motions.js"></script>
+  </body>
+</html>

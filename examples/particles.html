@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>three.js template</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <style>
+      * {
+        margin: 0;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <!--script defer src="../node_modules/es-module-shims/dist/es-module-shims.js"></script>
+    <script type="importmap-shim">
+      {
+        "imports": {
+          "three": "../node_modules/three/build/three.module.js",
+          "three/examples/": "../node_modules/three/examples/",
+          "webxr-polyfill": "../node_modules/webxr-polyfill/build/webxr-polyfill.module.js"
+        }
+      }
+    </script-->
+    <script defer src="https://unpkg.com/es-module-shims/dist/es-module-shims.js"></script>
+    <script type="importmap-shim">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three/build/three.module.js",
+          "three/examples/": "https://unpkg.com/three/examples/",
+          "webxr-polyfill": "https://unpkg.com/webxr-polyfill/build/webxr-polyfill.module.js"
+        }
+      }
+    </script>
+    <script type="module-shim" src="particles.js"></script>
+  </body>
+</html>

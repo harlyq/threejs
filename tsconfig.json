@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "allowJs": true,
+    "checkJs": true,
+    "newLine": "LF",
+    "module": "esnext",
+    "noEmit": true,
+    "moduleResolution": "node"
+  },
+  "include": ["src/*"]
+}
